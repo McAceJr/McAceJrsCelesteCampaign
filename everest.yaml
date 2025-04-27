@@ -1,0 +1,17 @@
+- Name: McAceJrsCelesteCampaign
+  Version: 0.0.1
+  Dependencies:
+    - Name: CherryHelper
+      Version: 1.8.1
+    - Name: CommunalHelper
+      Version: 1.21.1
+    - Name: Everest
+      Version: 1.5421.0
+    - Name: FemtoHelper
+      Version: 1.13.9
+    - Name: FrostHelper
+      Version: 1.67.4
+    - Name: MaxHelpingHand
+      Version: 1.35.2
+    - Name: VivHelper
+      Version: 1.14.10
