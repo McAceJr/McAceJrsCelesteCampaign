@@ -137,5 +137,6 @@
 
   <Tileset id="A" copy="z" path="bgBlueBrick"/>
   <Tileset id="B" copy="z" path="bgBlueBrickRuined"/>
+  <Tileset id="C" copy="z" path="bgBeachside"/>
 
 </Data>
