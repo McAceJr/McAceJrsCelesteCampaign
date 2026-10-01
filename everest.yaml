@@ -1,6 +1,8 @@
 - Name: McAceJrsCelesteCampaign
   Version: 0.0.1
   Dependencies:
+    - Name: CassetteHelper
+      Version: 1.1.0
     - Name: CherryHelper
       Version: 1.8.1
     - Name: CommunalHelper
